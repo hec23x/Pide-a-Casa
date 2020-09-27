@@ -10,7 +10,7 @@ public class PedidosViewModel extends ViewModel {
 
     public PedidosViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Este es el menú de Antojitos Lulú");
+        mText.setValue("Estos son tus pedidos anteriores");
     }
 
     public LiveData<String> getText() {
