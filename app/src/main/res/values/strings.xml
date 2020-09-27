@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pide a Casa</string>
+    <string name="title_navigation_menu">Menú</string>
+    <string name="title_navigation_orden">Orden</string>
+    <string name="title_navigation_status">Status</string>
+    <string name="title_navigation_pedidos">Pedidos</string>
+</resources>

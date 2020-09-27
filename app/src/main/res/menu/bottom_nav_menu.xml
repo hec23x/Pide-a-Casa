@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/menu"
+        android:title="@string/title_navigation_menu" />
+
+    <item
+        android:id="@+id/navigation_orden"
+        android:icon="@drawable/orden"
+        android:title="@string/title_navigation_orden" />
+
+    <item
+        android:id="@+id/navigation_status"
+        android:icon="@drawable/status"
+        android:title="@string/title_navigation_status" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/pedidos"
+        android:title="@string/title_navigation_pedidos" />
+
+</menu>
